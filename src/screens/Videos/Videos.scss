@@ -1,0 +1,19 @@
+.videoScreen {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding-bottom: 1em;
+    .filtersContainer {
+        padding-bottom: 0.5em;
+        padding-top: 0.5em;
+    }
+    .videosContainer {
+        padding-top: 0.4em;
+        display: grid;
+        grid-template-rows: auto;
+        grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
+        column-gap: 0.6em;
+        row-gap: 1em;
+        width: 100%;
+    };
+};

@@ -1,0 +1,16 @@
+form {
+    padding-bottom: 0.4em;
+    padding-top: 0.4em;
+    .searchBox {
+        border-radius: 0.5em;
+        width: 99%;
+        height: 2.6em;
+        margin: auto;
+        border: 0.1em solid black;
+        font-family: 'Noto Sans JP', sans-serif;
+        background-color: rgb(223, 223, 223);
+        @media (min-width: 1200px) {
+            width: 25%;
+        }
+    };
+};

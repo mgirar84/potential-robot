@@ -1,0 +1,23 @@
+.container {
+    width: 100%;
+    margin-bottom: 0.5em;
+    border: 0;
+    background-color: transparent;
+    text-align: left;
+    font-family: inherit;
+    padding: 0;
+    .videoContainer {
+        img {
+            display: block;
+            border-radius: 0.5em;
+            width: 100%;
+        };
+    };
+    .videoTitle {
+        min-height: 42px;
+        margin-bottom: 0.2em;
+        margin-top: 0.2em;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 1.2em;
+    };
+}

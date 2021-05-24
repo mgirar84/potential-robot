@@ -1,0 +1,11 @@
+.mainBanner {
+    background-color: red;
+    height: 3em;
+    padding: 0.5em;
+    .mainLogo {
+        background-image: url(../../assets/GCNLogoTxt.svg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 100%;
+    }
+}
