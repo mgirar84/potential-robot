@@ -12,6 +12,7 @@ Include scrollable navigation bars that would allow the user to scroll across ho
 Filter the videos by duration, watched and date.
 
 **How to build and Publish**
+
 Find a website hosting service and follow their build instructions - Usually requires specifying the directory and build command.
 In this case it would be build/ and npm run build
 
