@@ -6,7 +6,17 @@ To run this app:
 
 **Improvements to be made with more time:**
 
-Improved styling of components. Sizing, whitespace, fonts, colours, etc.
-Include scrollable navigation bars that would allow the user to scroll across categories.
+Rest of the website's content: GCN Shop, GCN+, GCN App links
+Improved styling of components. Sizing, whitespace, fonts, colours, animations etc.
+Include scrollable navigation bars that would allow the user to scroll across horizontal categories.
 Filter the videos by duration, watched and date.
+
+**How to build and Publish**
+Find a website hosting service and follow their build instructions - Usually requires specifying the directory and build command.
+In this case it would be build/ and npm run build
+
+Alternatively, directly upload the apps build folder.
+
+Purchase a domain name from a provider.
+change the CNAME for the new URL to point the host
 
