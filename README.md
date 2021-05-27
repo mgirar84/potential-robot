@@ -11,7 +11,7 @@ Improved styling of components. Sizing, whitespace, fonts, colours, animations e
 Include scrollable navigation bars that would allow the user to scroll across horizontal categories.
 Filter the videos by duration, watched and date.
 
-**How to build and Publish**
+**How to Build and Publish**
 
 Find a website hosting service and follow their build instructions - Usually requires specifying the directory and build command.
 In this case it would be build/ and npm run build
@@ -19,5 +19,5 @@ In this case it would be build/ and npm run build
 Alternatively, directly upload the apps build folder.
 
 Purchase a domain name from a provider.
-change the CNAME for the new URL to point the host
+Change the CNAME for the new URL to point the host.
 
